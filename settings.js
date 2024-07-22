@@ -10,8 +10,8 @@ global.premium = []
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
-global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
+global.botname = "꧁•⊹٭ 🅷 - 🅱🅾🆃 ٭⊹•꧂"
+global.wm = '¸„٭⊹✡•~⍣°”ˆ˜¨ 𝙃 𝙀 𝙏 𝙀 𝙍 𝙊 - 𝘽 𝙊 𝙏 ¨˜ˆ”°⍣~•✡⊹٭„¸💫'
 global.vs = '1.1.5'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
@@ -71,7 +71,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
+global.packname = "𝙃𝙀𝙏𝙀𝙍𝙊 - 𝘽𝙊𝙏"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
