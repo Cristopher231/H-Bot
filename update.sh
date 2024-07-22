@@ -1,8 +1,9 @@
-# Código desarrollado por @gata_dios 
+# Código desarrollado por @gata_dios
+# Modificacion y actalizacion @Cristopher231
   # * Al bifurcar este repositorio, dejen los créditos a todos los creadores de cada código por favor. ♥
 #!/data/data/com.termux/files/usr/bin/bash 
-BOT_DIR="NovaBot-MD"  
-BOT_REPO="https://github.com/elrebelde21/$BOT_DIR"
+BOT_DIR="·.★·.·´¯`·.·★ 𝓗 𝓔 𝓣 𝓔 𝓡 𝓞 - 𝓑 𝓞 𝓣 ★·.·´¯`·.·★.·"  
+BOT_REPO="https://github.com/Cristopher231/H-Bot"
 DB_FILE="database.json"
 
 GREEN='\033[32m'
