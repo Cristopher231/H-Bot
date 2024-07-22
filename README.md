@@ -25,7 +25,7 @@
 <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
-<a href="wa.me/573183650526" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="wa.me/50685695258" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### Quieres probar la funciones del bot, antes de instalar, probar el bot aquí
 
@@ -66,14 +66,14 @@ npm start
 ### `🟢 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙽 𝙲𝙰𝚂𝙾 𝙳𝙴 𝙳𝙴𝚃𝙴𝙽𝙴𝚁𝚂𝙴 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
 Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos
 ```bash
-> cd NovaBot-MD
+> cd H-Bot
 > npm start
 ```
 ### `🟢 𝙾𝙱𝚃𝙴𝙽𝙴𝚁 𝙾𝚃𝚁𝙾 𝙲𝙾𝙳𝙸𝙶𝙾 𝚀𝚁 𝙴𝙽 𝚃𝙴𝚁𝙼𝚄𝚇`
 Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 ```bash
 > cd 
-> cd NovaBot-MD
+> cd cd H-Bot
 > rm -rf sessions
 > npm start
 ```
@@ -127,7 +127,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - **Contacto:** [`Aquí`](https://wa.me/258858119033) 
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - NovaBot-MD**</summary><img src="https://telegra.ph/file/5f7ea409a01756d76568f.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - H-Bot**</summary><img src="https://telegra.ph/file/5f7ea409a01756d76568f.jpg"></details>
 
 ------------------ 
 
@@ -147,7 +147,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - **Correo:** [`Aquí`](mailto:contacto@cafirexos.com)
 - **Contacto:** [`Diego Flores`](https://wa.me/50497150165)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - NovaBot-MD**</summary><img src="https://telegra.ph/file/38d1458d37957d7323e7b.jpg"></details>
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - H-Bot**</summary><img src="https://telegra.ph/file/38d1458d37957d7323e7b.jpg"></details>
 
 ------------------ 
 ### 🟢 ACTIVAR EN CODES SPACES 
@@ -158,7 +158,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## `𝙴𝙳𝙸𝚃𝙾𝚁 𝚈 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃`
 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="250" height="250" alt="elrebelde21"/></a>
+<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="250" height="250" alt="Cristopher231"/></a>
 
 ## `👑 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁𝙴𝚂 👑`
 
