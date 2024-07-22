@@ -22,7 +22,7 @@
     
 ### `👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <p align="center">
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
+<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Tu+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
     
 <a href="wa.me/50685695258" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -73,12 +73,12 @@ Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu inte
 Detener el bot apretado CTRL y aplastas Z en tu teclado, darle enter y escribe:
 ```bash
 > cd 
-> cd cd H-Bot
+> cd H-Bot
 > rm -rf sessions
 > npm start
 ```
 
-- ### 🟢 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝚁 𝙽𝙾𝚅𝙰𝙱𝙾𝚃-𝙼𝙳
+- ### 🟢 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝚁 H-BOT
 > Note Comandos para actualizar NovaBot-MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/elrebelde21/NovaBot-MD/master/update.sh | bash
