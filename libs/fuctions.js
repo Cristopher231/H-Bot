@@ -54,7 +54,7 @@ try {
 const userProfilePicUrl = await conn.profilePictureUrl(sender, "image");
 return await getBuffer(userProfilePicUrl);
 } catch {
-return fs.readFileSync("./media/Menu1");
+return fs.readFileSync("./media/Menu");
 }}
 
 //
